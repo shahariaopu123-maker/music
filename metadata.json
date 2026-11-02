@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pink Wave",
+  "description": "A modern, neon-themed Android music player featuring Liquid Glass UI, ExoPlayer integration, and seamless local audio streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
